@@ -33,4 +33,4 @@ I build complex software systems, AI/data platforms, IoT products, and cloud-nat
 Sivense is a software engineering and technology partner focused on complex systems, AI, data, cloud, and IoT.
 
 Website: https://sivense.com
-LinkedIn: [https://www.linkedin.com/company/sivensesoftware](https://www.linkedin.com/company/sivense/)
+LinkedIn: [https://www.linkedin.com/company/sivense](https://www.linkedin.com/company/sivense/)
